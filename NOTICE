@@ -1,0 +1,28 @@
+BMW Atlas Hub
+Copyright © 2026 MAGRATHEAN UK LTD
+
+BMW Atlas Hub is free software. You can redistribute and modify it under the
+terms of the GNU Affero General Public License, version 3 only, as published
+by the Free Software Foundation (SPDX: AGPL-3.0-only). Additional terms apply
+under section 7 of that licence. They are in docs/legal/additional-terms.md.
+The software is distributed WITHOUT ANY WARRANTY; see the licence in LICENSE.
+
+Required attribution
+--------------------
+The additional terms require this notice to be kept:
+
+  BMW Atlas Hub — originally authored by György Bolyki and published by MAGRATHEAN UK LTD. Source: https://github.com/magrathean-uk/bmwatlas-hub
+
+Independence
+------------
+BMW Atlas Hub is independent. It is not affiliated with, endorsed by or
+supported by BMW AG.
+
+Third-party components
+----------------------
+This repository has no third-party components yet.
+
+Names
+-----
+The licence grants no right to use the names BMW Atlas Hub or Magrathean. See
+docs/legal/trademarks.md.

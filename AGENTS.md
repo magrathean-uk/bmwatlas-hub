@@ -16,7 +16,8 @@ BMW Atlas Hub is a documentation-only design placeholder. There is no applicatio
 
 - Preserve the owner-controlled, read-only-by-default design and authorised-provider boundary. Do not imply BMW endorsement or parity with Teslatlas Hub.
 - Keep credentials, VINs, locations, account details, and private telemetry out of examples, fixtures, reports, and logs. Use synthetic examples.
-- Preserve the existing copyright, licence, and trademark statements. Do not copy Teslatlas Hub's licence or contributor terms into this project. See [Licensing](docs/licensing.md).
-- Follow [Security](SECURITY.md) for sensitive reports and [Contributing and support](CONTRIBUTING.md) for public proposals.
+- This project's licence and contributor terms follow Teslatlas Hub's structure (owner decision, 2026-09-27): AGPL-3.0-only with section 7 additional terms, and closed, maintainer-only contribution with assignment. See [NOTICE](NOTICE), [docs/legal/overview.md](docs/legal/overview.md) and [docs/governance/governance.md](docs/governance/governance.md).
+- Legal files (`LICENSE`, `NOTICE`, `docs/legal/`, contributor terms, copyright and attribution strings) are owner-controlled: change them only on the owner's explicit instruction.
+- Follow [Security](.github/SECURITY.md) for sensitive reports and [Contributing](.github/CONTRIBUTING.md) for public proposals.
 
 Keep instructions here; [CLAUDE.md](CLAUDE.md) imports this file. Use short, direct prose and avoid em dashes in new documentation.

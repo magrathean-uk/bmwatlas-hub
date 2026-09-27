@@ -1,4 +1,10 @@
-# BMW Atlas Hub
+<h1 align="center">BMW Atlas Hub</h1>
+
+<p align="center">A planned self-hosted service for collecting, normalising, storing and exposing BMW vehicle telemetry.</p>
+
+<p align="center">
+  <a href="docs/legal/overview.md">Licence</a>
+</p>
 
 **Design-stage / pre-alpha. There is no runnable collector in this repository.**
 
@@ -34,12 +40,14 @@ This repository contains project documentation. There are no installation, build
 
 Before an implementation can be presented as usable, the project needs decisions and evidence for authentication and provider support, storage and API contracts, credential handling, synthetic fixtures, tests, migrations, packaging, upgrades, backups, and rollback. A software licence also remains to be chosen. CI configuration is a separate maintainer decision.
 
-For design proposals, documentation corrections, and questions, see [Contributing and support](CONTRIBUTING.md). For sensitive reports, see [Security](SECURITY.md).
+For design proposals, documentation corrections, and questions, see [Contributing](.github/CONTRIBUTING.md). For sensitive reports, see [Security](.github/SECURITY.md).
 
 ## Licence and independence
 
-No software licence is granted by this repository until a `LICENSE` file is published. Copyright © 2026 Magrathean UK Ltd. All rights reserved.
+BMW Atlas Hub is free software under the GNU Affero General Public License, version 3 only. See [LICENSE](LICENSE) and [NOTICE](NOTICE). Our [additional terms](docs/legal/additional-terms.md) and [legal notice](docs/legal/overview.md) apply alongside the licence; [governance](docs/governance/governance.md) explains how the project is maintained and how contributions are assigned. Copyright © 2026 MAGRATHEAN UK LTD.
 
-See [Licensing](docs/licensing.md) for the current position and the distinction from Teslatlas Hub.
+Teslatlas Hub is a related Magrathean project, named here only as a design reference; its licence and contributor terms are separate from this project's.
 
-BMW, BMW ConnectedDrive, and related names and marks are trademarks of Bayerische Motoren Werke AG. BMW Atlas Hub is an independent project and is not affiliated with, endorsed by, sponsored by, or supported by BMW AG.
+BMW, BMW ConnectedDrive, and related names and marks are trademarks of Bayerische Motoren Werke AG. BMW Atlas Hub is independent. It is not affiliated with, endorsed by, sponsored by, or supported by BMW AG.
+
+<sub>© 2026 MAGRATHEAN UK LTD · [Legal](https://github.com/magrathean-uk/.github/blob/main/LEGAL.md)</sub>
