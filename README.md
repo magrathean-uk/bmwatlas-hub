@@ -38,7 +38,7 @@ These are design goals, not available features. Provider support, deployment tar
 
 This repository contains project documentation. There are no installation, build, test, or run commands, and no software release to deploy.
 
-Before an implementation can be presented as usable, the project needs decisions and evidence for authentication and provider support, storage and API contracts, credential handling, synthetic fixtures, tests, migrations, packaging, upgrades, backups, and rollback. A software licence also remains to be chosen. CI configuration is a separate maintainer decision.
+Before an implementation can be presented as usable, the project needs decisions and evidence for authentication and provider support, storage and API contracts, credential handling, synthetic fixtures, tests, migrations, packaging, upgrades, backups, and rollback. CI configuration is a separate maintainer decision.
 
 For design proposals, documentation corrections, and questions, see [Contributing](.github/CONTRIBUTING.md). For sensitive reports, see [Security](.github/SECURITY.md).
 
