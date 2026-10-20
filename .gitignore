@@ -1,0 +1,4 @@
+# --- secrets (clean-development) ---
+.env
+.env.*
+!.env.example
